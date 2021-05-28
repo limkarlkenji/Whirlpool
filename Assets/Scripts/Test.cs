@@ -6,12 +6,6 @@ public class Test : MonoBehaviour
     public Material mat;
     public float speed;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     private void Update()
     {
         if(Input.GetKeyUp(KeyCode.Space))
