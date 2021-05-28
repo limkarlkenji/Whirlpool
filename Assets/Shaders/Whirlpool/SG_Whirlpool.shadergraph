@@ -231,7 +231,11 @@
             "m_Id": "425b8f17f3ee430086f3593e5551ed6d"
         }
     ],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "0b43988fb0004d6fab5d3a29762ede39"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -1207,6 +1211,26 @@
         "m_SerializableColors": []
     },
     "m_Value": 0.0
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "0b43988fb0004d6fab5d3a29762ede39",
+    "m_Title": "TODO",
+    "m_Content": "-Recalculate normals for whirlpool\n-Preferably move this to a subgraph",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -3590.0,
+        "y": 706.0,
+        "width": 333.0,
+        "height": 223.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
